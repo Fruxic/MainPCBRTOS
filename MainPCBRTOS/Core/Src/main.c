@@ -75,10 +75,12 @@ struct rock rck[5];
 #define TELEGRAM_REBOOT					"sMN mSCreboot"
 #define TELEGRAM_SCAN_ONE	 			"sRN LMDscandata"
 
+
+
+
 //Flash memory allocations
 #define FLASH_SPEED						0x08021000
 #define FLASH_PARAMETER					0x08041000
-
 
 #define THRESHOLD						1340 //in millimeters
 #define BELT							1410 //in millimeters
