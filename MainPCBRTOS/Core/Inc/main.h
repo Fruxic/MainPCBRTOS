@@ -91,6 +91,7 @@ void Error_Handler(void);
 #define HUM_SCL_GPIO_Port GPIOB
 #define HUM_SDA_Pin GPIO_PIN_7
 #define HUM_SDA_GPIO_Port GPIOB
+
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
